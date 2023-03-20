@@ -4,6 +4,10 @@ I’m Lukas, a post-doctoral researcher at the University of Glasgow in the lab 
 
 ## :package: Software packages
 
+- 🙃 [`medusa`](https://github.com/medusa-4D/medusa) 4D face reconstruction and analysis
+
+- ⏫ [`noiseceiling`](https://github.com/lukassnoek/noiseceiling) Noise ceiling estimation for machine learning models
+
 ## :notebook: Teaching materials
 
 - 📉 [`NI-edu`](https://github.com/lukassnoek/NI-edu) A collection of neuroimaging-related course materials ([course website](https://lukas-snoek.com/NI-edu/))
