@@ -1,6 +1,6 @@
 ### Hi!
 
-I’m Lukas, a data scientist interested in time series analysis, machine learning, and bias/fairness. Before, I was a post-doctoral researcher at the University of Glasgow doing research on (artificial and human) face perception and a PhD student at the University of Amsterdam.
+I’m Lukas, a data scientist interested in time series analysis, machine learning, and bias/fairness. Before (2021-2023), I was a post-doctoral researcher at the University of Glasgow doing research on (artificial and human) face perception and (2015-2021) a PhD student at the University of Amsterdam.
 
 ## :package: Software packages
 
